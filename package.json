@@ -1,0 +1,23 @@
+{
+  "name": "@autotrof/regex-like",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "implementation of where like %String%String%String% of mysql or mariadb in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "regex",
+    "regular expression",
+    "javacript",
+    "mysql",
+    "like",
+    "where",
+    "search",
+    "searching",
+    "simple"
+  ],
+  "author": "Agung Kurniawan",
+  "license": "ISC"
+}
